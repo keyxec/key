@@ -1,0 +1,10 @@
+key:
+  title: key
+  subtitle: KEY项目
+  tags: 博客主题
+  cover: true
+  logo:
+    src: https://cdn.jsdelivr.net/gh/tsl1997/me@source/source/jpg/2021/7/19/key.jpg
+    small: 112px
+    large: 240px
+  description: 这是一个测试项目，用来测试项目是否可行。
