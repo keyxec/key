@@ -8,5 +8,3 @@ key:
     small: 112px
     large: 240px
   description: 这是一个测试项目，用来测试项目是否可行。
-   sections:
-    '尝试分组': [0, 99]
